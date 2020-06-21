@@ -1,0 +1,222 @@
+EESchema Schematic File Version 4
+EELAYER 30 0
+EELAYER END
+$Descr A4 11693 8268
+encoding utf-8
+Sheet 1 9
+Title ""
+Date ""
+Rev ""
+Comp ""
+Comment1 ""
+Comment2 ""
+Comment3 ""
+Comment4 ""
+$EndDescr
+$Sheet
+S 1050 2900 900  1400
+U 5EF299B0
+F0 "Sheet595Neon" 50
+F1 "file595Neon.sch" 50
+F2 "DATAIN" I L 1050 3050 50 
+F3 "SCK" I L 1050 3200 50 
+F4 "DATAOUT" O L 1050 4200 50 
+F5 "LATCH" I L 1050 3350 50 
+F6 "OE" I L 1050 3500 50 
+$EndSheet
+Text Label 1050 3200 2    50   ~ 0
+SCK
+Text Label 1050 3350 2    50   ~ 0
+LATCH
+Text Label 1050 3500 2    50   ~ 0
+OE
+$Sheet
+S 2400 2900 900  1400
+U 5EFA92A6
+F0 "sheet5EFA929F" 50
+F1 "file595Neon.sch" 50
+F2 "DATAIN" I L 2400 3050 50 
+F3 "SCK" I L 2400 3200 50 
+F4 "DATAOUT" O L 2400 4200 50 
+F5 "LATCH" I L 2400 3350 50 
+F6 "OE" I L 2400 3500 50 
+$EndSheet
+Text Label 2400 3200 2    50   ~ 0
+SCK
+Text Label 2400 3350 2    50   ~ 0
+LATCH
+Text Label 2400 3500 2    50   ~ 0
+OE
+$Sheet
+S 3750 2900 900  1400
+U 5EFA93EC
+F0 "sheet5EFA93E5" 50
+F1 "file595Neon.sch" 50
+F2 "DATAIN" I L 3750 3050 50 
+F3 "SCK" I L 3750 3200 50 
+F4 "DATAOUT" O L 3750 4200 50 
+F5 "LATCH" I L 3750 3350 50 
+F6 "OE" I L 3750 3500 50 
+$EndSheet
+Text Label 3750 3200 2    50   ~ 0
+SCK
+Text Label 3750 3350 2    50   ~ 0
+LATCH
+Text Label 3750 3500 2    50   ~ 0
+OE
+$Sheet
+S 5050 2900 900  1400
+U 5EFA9520
+F0 "sheet5EFA9519" 50
+F1 "file595Neon.sch" 50
+F2 "DATAIN" I L 5050 3050 50 
+F3 "SCK" I L 5050 3200 50 
+F4 "DATAOUT" O L 5050 4200 50 
+F5 "LATCH" I L 5050 3350 50 
+F6 "OE" I L 5050 3500 50 
+$EndSheet
+Text Label 5050 3200 2    50   ~ 0
+SCK
+Text Label 5050 3350 2    50   ~ 0
+LATCH
+Text Label 5050 3500 2    50   ~ 0
+OE
+Wire Wire Line
+	2400 3050 2100 3050
+Wire Wire Line
+	2100 3050 2100 4450
+Wire Wire Line
+	2100 4450 950  4450
+Wire Wire Line
+	950  4450 950  4200
+Wire Wire Line
+	950  4200 1050 4200
+Wire Wire Line
+	2400 4200 2350 4200
+Wire Wire Line
+	2350 4200 2350 4450
+Wire Wire Line
+	2350 4450 3450 4450
+Wire Wire Line
+	3450 4450 3450 3050
+Wire Wire Line
+	3450 3050 3750 3050
+Wire Wire Line
+	3750 4200 3700 4200
+Wire Wire Line
+	3700 4200 3700 4450
+Wire Wire Line
+	3700 4450 4750 4450
+Wire Wire Line
+	4750 4450 4750 3050
+Wire Wire Line
+	4750 3050 5050 3050
+$Sheet
+S 1050 4800 900  1400
+U 5EFAAFCD
+F0 "sheet5EFAAFC3" 50
+F1 "file595Neon.sch" 50
+F2 "DATAIN" I L 1050 4950 50 
+F3 "SCK" I L 1050 5100 50 
+F4 "DATAOUT" O L 1050 6100 50 
+F5 "LATCH" I L 1050 5250 50 
+F6 "OE" I L 1050 5400 50 
+$EndSheet
+Text Label 1050 5100 2    50   ~ 0
+SCK
+Text Label 1050 5250 2    50   ~ 0
+LATCH
+Text Label 1050 5400 2    50   ~ 0
+OE
+$Sheet
+S 2400 4800 900  1400
+U 5EFAAFD7
+F0 "sheet5EFAAFC4" 50
+F1 "file595Neon.sch" 50
+F2 "DATAIN" I L 2400 4950 50 
+F3 "SCK" I L 2400 5100 50 
+F4 "DATAOUT" O L 2400 6100 50 
+F5 "LATCH" I L 2400 5250 50 
+F6 "OE" I L 2400 5400 50 
+$EndSheet
+Text Label 2400 5100 2    50   ~ 0
+SCK
+Text Label 2400 5250 2    50   ~ 0
+LATCH
+Text Label 2400 5400 2    50   ~ 0
+OE
+$Sheet
+S 3750 4800 900  1400
+U 5EFAAFE1
+F0 "sheet5EFAAFC5" 50
+F1 "file595Neon.sch" 50
+F2 "DATAIN" I L 3750 4950 50 
+F3 "SCK" I L 3750 5100 50 
+F4 "DATAOUT" O L 3750 6100 50 
+F5 "LATCH" I L 3750 5250 50 
+F6 "OE" I L 3750 5400 50 
+$EndSheet
+Text Label 3750 5100 2    50   ~ 0
+SCK
+Text Label 3750 5250 2    50   ~ 0
+LATCH
+Text Label 3750 5400 2    50   ~ 0
+OE
+$Sheet
+S 5050 4800 900  1400
+U 5EFAAFEB
+F0 "sheet5EFAAFC6" 50
+F1 "file595Neon.sch" 50
+F2 "DATAIN" I L 5050 4950 50 
+F3 "SCK" I L 5050 5100 50 
+F4 "DATAOUT" O L 5050 6100 50 
+F5 "LATCH" I L 5050 5250 50 
+F6 "OE" I L 5050 5400 50 
+$EndSheet
+Text Label 5050 5100 2    50   ~ 0
+SCK
+Text Label 5050 5250 2    50   ~ 0
+LATCH
+Text Label 5050 5400 2    50   ~ 0
+OE
+Wire Wire Line
+	2400 4950 2100 4950
+Wire Wire Line
+	2100 4950 2100 6350
+Wire Wire Line
+	2100 6350 950  6350
+Wire Wire Line
+	950  6350 950  6100
+Wire Wire Line
+	950  6100 1050 6100
+Wire Wire Line
+	2400 6100 2350 6100
+Wire Wire Line
+	2350 6100 2350 6350
+Wire Wire Line
+	2350 6350 3450 6350
+Wire Wire Line
+	3450 6350 3450 4950
+Wire Wire Line
+	3450 4950 3750 4950
+Wire Wire Line
+	3750 6100 3700 6100
+Wire Wire Line
+	3700 6100 3700 6350
+Wire Wire Line
+	3700 6350 4750 6350
+Wire Wire Line
+	4750 6350 4750 4950
+Wire Wire Line
+	4750 4950 5050 4950
+Wire Wire Line
+	5050 4200 5000 4200
+Wire Wire Line
+	5000 4200 5000 4600
+Wire Wire Line
+	5000 4600 950  4600
+Wire Wire Line
+	950  4600 950  4950
+Wire Wire Line
+	950  4950 1050 4950
+$EndSCHEMATC
