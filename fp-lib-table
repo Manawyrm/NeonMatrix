@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name NeonMatrix)(type KiCad)(uri /home/tobias/Entwicklung/Platinen/NeonMatrix.pretty)(options "")(descr ""))
+  (lib (name NeonMatrix_Connector)(type KiCad)(uri ${KIPRJMOD}/NeonMatrix_Connector.pretty)(options "")(descr ""))
+)
