@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name NeonMatrix)(type Legacy)(uri ${KIPRJMOD}/NeonMatrix.lib)(options "")(descr ""))
+)
