@@ -259,12 +259,12 @@ Wire Wire Line
 $Comp
 L Connector:Conn_01x06_Male J2
 U 1 1 5EF289F0
-P 2300 1200
-F 0 "J2" H 2408 1581 50  0000 C CNN
-F 1 "Data" H 2408 1490 50  0000 C CNN
-F 2 "Connector_PinHeader_2.54mm:PinHeader_1x06_P2.54mm_Vertical" H 2300 1200 50  0001 C CNN
-F 3 "~" H 2300 1200 50  0001 C CNN
-	1    2300 1200
+P 1900 1200
+F 0 "J2" H 2008 1581 50  0000 C CNN
+F 1 "Data" H 2008 1490 50  0000 C CNN
+F 2 "Connector_PinHeader_2.54mm:PinHeader_1x06_P2.54mm_Vertical" H 1900 1200 50  0001 C CNN
+F 3 "~" H 1900 1200 50  0001 C CNN
+	1    1900 1200
 	1    0    0    -1  
 $EndComp
 $Comp
@@ -279,7 +279,7 @@ F 3 "" H 4200 1050 60  0001 C CNN
 	1    0    0    -1  
 $EndComp
 Wire Wire Line
-	2500 1100 3050 1100
+	2100 1100 2650 1100
 $Comp
 L Isolator:ADuM1200AR U9
 U 1 1 5EF33638
@@ -305,17 +305,13 @@ F 4 "C15219" H 4200 2600 50  0001 C CNN "LCSC"
 	1    0    0    -1  
 $EndComp
 Wire Wire Line
-	2500 1200 3000 1200
+	2100 1200 2600 1200
 Wire Wire Line
-	3000 1200 3000 1650
+	2600 1200 2600 1650
 Wire Wire Line
-	3000 1650 3700 1650
+	2100 1300 2500 1300
 Wire Wire Line
-	2500 1300 2900 1300
-Wire Wire Line
-	2900 1300 2900 1850
-Wire Wire Line
-	2900 1850 3700 1850
+	2500 1300 2500 1850
 Text Label 3700 1550 2    50   ~ 0
 ISO_5V
 Text Label 3700 2400 2    50   ~ 0
@@ -325,20 +321,16 @@ ISO_GND
 Text Label 3700 1950 2    50   ~ 0
 ISO_GND
 Wire Wire Line
-	2500 1400 2800 1400
+	2100 1400 2400 1400
 Wire Wire Line
-	2800 1400 2800 2500
+	2400 1400 2400 2500
 Wire Wire Line
-	2800 2500 3700 2500
+	2100 1500 2300 1500
 Wire Wire Line
-	2500 1500 2700 1500
-Wire Wire Line
-	2700 1500 2700 2700
-Wire Wire Line
-	2700 2700 3700 2700
-Text Label 2500 1000 0    50   ~ 0
+	2300 1500 2300 2700
+Text Label 2100 1000 0    50   ~ 0
 ISO_5V
-Text Label 2500 1100 0    50   ~ 0
+Text Label 2100 1100 0    50   ~ 0
 ISO_GND
 Wire Notes Line
 	1850 600  4200 600 
@@ -350,13 +342,13 @@ Wire Notes Line
 	1850 3100 1850 600 
 Text Notes 1850 700  0    50   ~ 0
 Isolated
-Text Label 2500 1200 0    50   ~ 0
+Text Label 2100 1200 0    50   ~ 0
 ISO_DATAIN
-Text Label 2500 1300 0    50   ~ 0
+Text Label 2100 1300 0    50   ~ 0
 ISO_SCK
-Text Label 2500 1400 0    50   ~ 0
+Text Label 2100 1400 0    50   ~ 0
 ISO_LATCH
-Text Label 2500 1500 0    50   ~ 0
+Text Label 2100 1500 0    50   ~ 0
 ISO_OE
 $Comp
 L power:+3V3 #PWR0271
@@ -420,7 +412,6 @@ Wire Wire Line
 	3800 1200 3800 1150
 Wire Wire Line
 	3800 1150 3900 1150
-Connection ~ 3200 1200
 Wire Wire Line
 	3200 1200 3600 1200
 Connection ~ 3600 1200
@@ -432,20 +423,15 @@ Wire Wire Line
 	3800 950  3800 900 
 Wire Wire Line
 	3800 900  3600 900 
-Connection ~ 3200 900 
 Connection ~ 3600 900 
 Wire Wire Line
 	3600 900  3200 900 
 Wire Wire Line
-	3050 900  3050 1000
+	2650 900  2650 1000
 Wire Wire Line
-	3050 1000 2500 1000
+	2650 1000 2100 1000
 Wire Wire Line
-	3050 1100 3050 1200
-Wire Wire Line
-	3050 1200 3200 1200
-Wire Wire Line
-	3050 900  3200 900 
+	2650 1100 2650 1200
 Wire Wire Line
 	4700 1150 4700 1200
 Wire Wire Line
@@ -599,4 +585,36 @@ Wire Wire Line
 	5300 800  5300 900 
 Wire Wire Line
 	5300 1300 5300 1200
+$Comp
+L Device:C C14
+U 1 1 5EF36675
+P 2850 1050
+F 0 "C14" H 2965 1096 50  0000 L CNN
+F 1 "22u" H 2965 1005 50  0000 L CNN
+F 2 "Capacitor_SMD:C_0805_2012Metric" H 2888 900 50  0001 C CNN
+F 3 "~" H 2850 1050 50  0001 C CNN
+F 4 "C45783" H 2850 1050 50  0001 C CNN "LCSC"
+	1    2850 1050
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	2650 900  2850 900 
+Connection ~ 3200 900 
+Connection ~ 2850 900 
+Wire Wire Line
+	2850 900  3200 900 
+Wire Wire Line
+	2650 1200 2850 1200
+Connection ~ 3200 1200
+Connection ~ 2850 1200
+Wire Wire Line
+	2850 1200 3200 1200
+Wire Wire Line
+	2600 1650 3700 1650
+Wire Wire Line
+	2500 1850 3700 1850
+Wire Wire Line
+	2400 2500 3700 2500
+Wire Wire Line
+	2300 2700 3700 2700
 $EndSCHEMATC
