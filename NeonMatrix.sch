@@ -456,8 +456,6 @@ Wire Wire Line
 	4700 900  4700 950 
 Wire Wire Line
 	4500 950  4700 950 
-Wire Wire Line
-	4700 900  4900 900 
 $Comp
 L power:+3V3 #PWR0273
 U 1 1 5EF80809
@@ -562,4 +560,43 @@ Wire Wire Line
 Connection ~ 5700 1200
 Wire Wire Line
 	5700 1200 5950 1200
+$Comp
+L Mechanical:Fiducial FID2
+U 1 1 5EF2A5C0
+P 10750 900
+F 0 "FID2" H 10835 946 50  0000 L CNN
+F 1 "HV" H 10835 855 50  0000 L CNN
+F 2 "Symbol:Symbol_HighVoltage_Type1_CopperTop_Big" H 10750 900 50  0001 C CNN
+F 3 "~" H 10750 900 50  0001 C CNN
+	1    10750 900 
+	1    0    0    -1  
+$EndComp
+$Comp
+L Connector:TestPoint TP1
+U 1 1 5EF2C852
+P 5300 800
+F 0 "TP1" H 5358 918 50  0000 L CNN
+F 1 "HV_VCC" H 5358 827 50  0000 L CNN
+F 2 "TestPoint:TestPoint_Pad_2.0x2.0mm" H 5500 800 50  0001 C CNN
+F 3 "~" H 5500 800 50  0001 C CNN
+	1    5300 800 
+	1    0    0    -1  
+$EndComp
+$Comp
+L Connector:TestPoint TP2
+U 1 1 5EF39EDF
+P 5300 1300
+F 0 "TP2" H 5242 1326 50  0000 R CNN
+F 1 "HV_GND" H 5242 1417 50  0000 R CNN
+F 2 "TestPoint:TestPoint_Pad_2.0x2.0mm" H 5500 1300 50  0001 C CNN
+F 3 "~" H 5500 1300 50  0001 C CNN
+	1    5300 1300
+	-1   0    0    1   
+$EndComp
+Wire Wire Line
+	4700 900  4900 900 
+Wire Wire Line
+	5300 800  5300 900 
+Wire Wire Line
+	5300 1300 5300 1200
 $EndSCHEMATC
