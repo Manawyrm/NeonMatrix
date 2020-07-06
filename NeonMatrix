@@ -1,0 +1,1346 @@
+!PADS-POWERPCB-V2.0-MILS!
+*PART*
+ J1 TerminalBlock_RND:TerminalBlock_RND_205-00001_1x02_P5.00mm_Horizontal
+ J2 Connector_PinHeader_2.54mm:PinHeader_1x07_P2.54mm_Vertical
+ M1 NeonMatrix:M_DCDC_SIP4
+ U9 Package_SO:SOIC-8_3.9x4.9mm_P1.27mm
+ U10 Package_SO:SOIC-8_3.9x4.9mm_P1.27mm
+ C1 Capacitor_SMD:C_0805_2012Metric
+ C2 Capacitor_SMD:C_0805_2012Metric
+ C3 Capacitor_SMD:C_0805_2012Metric
+ C4 Capacitor_SMD:C_0805_2012Metric
+ C5 Capacitor_SMD:C_0805_2012Metric
+ FID2 Symbol:Symbol_HighVoltage_Type1_CopperTop_Big
+ TP1 TestPoint:TestPoint_Pad_2.0x2.0mm
+ TP2 TestPoint:TestPoint_Pad_2.0x2.0mm
+ C14 Capacitor_SMD:C_0805_2012Metric
+ U11 Package_SO:SOIC-8_3.9x4.9mm_P1.27mm
+ C15 Capacitor_SMD:C_0805_2012Metric
+ C16 Capacitor_SMD:C_0805_2012Metric
+ U1 Package_SO:SOIC-16_3.9x9.9mm_P1.27mm
+ C6 Capacitor_SMD:C_0805_2012Metric
+ R1 Resistor_SMD:R_0402_1005Metric
+ R2 Resistor_SMD:R_0603_1608Metric
+ D1 Package_TO_SOT_SMD:SOT-23
+ NE1 NeonMatrix_Connector:NeonBulb
+ R3 Resistor_SMD:R_0402_1005Metric
+ R4 Resistor_SMD:R_0603_1608Metric
+ D2 Package_TO_SOT_SMD:SOT-23
+ NE2 NeonMatrix_Connector:NeonBulb
+ R5 Resistor_SMD:R_0402_1005Metric
+ R6 Resistor_SMD:R_0603_1608Metric
+ D3 Package_TO_SOT_SMD:SOT-23
+ NE3 NeonMatrix_Connector:NeonBulb
+ R7 Resistor_SMD:R_0402_1005Metric
+ R8 Resistor_SMD:R_0603_1608Metric
+ D4 Package_TO_SOT_SMD:SOT-23
+ NE4 NeonMatrix_Connector:NeonBulb
+ R9 Resistor_SMD:R_0402_1005Metric
+ R10 Resistor_SMD:R_0603_1608Metric
+ D5 Package_TO_SOT_SMD:SOT-23
+ NE5 NeonMatrix_Connector:NeonBulb
+ R11 Resistor_SMD:R_0402_1005Metric
+ R12 Resistor_SMD:R_0603_1608Metric
+ D6 Package_TO_SOT_SMD:SOT-23
+ NE6 NeonMatrix_Connector:NeonBulb
+ R13 Resistor_SMD:R_0402_1005Metric
+ R14 Resistor_SMD:R_0603_1608Metric
+ D7 Package_TO_SOT_SMD:SOT-23
+ NE7 NeonMatrix_Connector:NeonBulb
+ R15 Resistor_SMD:R_0402_1005Metric
+ R16 Resistor_SMD:R_0603_1608Metric
+ D8 Package_TO_SOT_SMD:SOT-23
+ NE8 NeonMatrix_Connector:NeonBulb
+ U2 Package_SO:SOIC-16_3.9x9.9mm_P1.27mm
+ C7 Capacitor_SMD:C_0805_2012Metric
+ R17 Resistor_SMD:R_0402_1005Metric
+ R18 Resistor_SMD:R_0603_1608Metric
+ D9 Package_TO_SOT_SMD:SOT-23
+ NE9 NeonMatrix_Connector:NeonBulb
+ R19 Resistor_SMD:R_0402_1005Metric
+ R20 Resistor_SMD:R_0603_1608Metric
+ D10 Package_TO_SOT_SMD:SOT-23
+ NE10 NeonMatrix_Connector:NeonBulb
+ R21 Resistor_SMD:R_0402_1005Metric
+ R22 Resistor_SMD:R_0603_1608Metric
+ D11 Package_TO_SOT_SMD:SOT-23
+ NE11 NeonMatrix_Connector:NeonBulb
+ R23 Resistor_SMD:R_0402_1005Metric
+ R24 Resistor_SMD:R_0603_1608Metric
+ D12 Package_TO_SOT_SMD:SOT-23
+ NE12 NeonMatrix_Connector:NeonBulb
+ R25 Resistor_SMD:R_0402_1005Metric
+ R26 Resistor_SMD:R_0603_1608Metric
+ D13 Package_TO_SOT_SMD:SOT-23
+ NE13 NeonMatrix_Connector:NeonBulb
+ R27 Resistor_SMD:R_0402_1005Metric
+ R28 Resistor_SMD:R_0603_1608Metric
+ D14 Package_TO_SOT_SMD:SOT-23
+ NE14 NeonMatrix_Connector:NeonBulb
+ R29 Resistor_SMD:R_0402_1005Metric
+ R30 Resistor_SMD:R_0603_1608Metric
+ D15 Package_TO_SOT_SMD:SOT-23
+ NE15 NeonMatrix_Connector:NeonBulb
+ R31 Resistor_SMD:R_0402_1005Metric
+ R32 Resistor_SMD:R_0603_1608Metric
+ D16 Package_TO_SOT_SMD:SOT-23
+ NE16 NeonMatrix_Connector:NeonBulb
+ U3 Package_SO:SOIC-16_3.9x9.9mm_P1.27mm
+ C8 Capacitor_SMD:C_0805_2012Metric
+ R33 Resistor_SMD:R_0402_1005Metric
+ R34 Resistor_SMD:R_0603_1608Metric
+ D17 Package_TO_SOT_SMD:SOT-23
+ NE17 NeonMatrix_Connector:NeonBulb
+ R35 Resistor_SMD:R_0402_1005Metric
+ R36 Resistor_SMD:R_0603_1608Metric
+ D18 Package_TO_SOT_SMD:SOT-23
+ NE18 NeonMatrix_Connector:NeonBulb
+ R37 Resistor_SMD:R_0402_1005Metric
+ R38 Resistor_SMD:R_0603_1608Metric
+ D19 Package_TO_SOT_SMD:SOT-23
+ NE19 NeonMatrix_Connector:NeonBulb
+ R39 Resistor_SMD:R_0402_1005Metric
+ R40 Resistor_SMD:R_0603_1608Metric
+ D20 Package_TO_SOT_SMD:SOT-23
+ NE20 NeonMatrix_Connector:NeonBulb
+ R41 Resistor_SMD:R_0402_1005Metric
+ R42 Resistor_SMD:R_0603_1608Metric
+ D21 Package_TO_SOT_SMD:SOT-23
+ NE21 NeonMatrix_Connector:NeonBulb
+ R43 Resistor_SMD:R_0402_1005Metric
+ R44 Resistor_SMD:R_0603_1608Metric
+ D22 Package_TO_SOT_SMD:SOT-23
+ NE22 NeonMatrix_Connector:NeonBulb
+ R45 Resistor_SMD:R_0402_1005Metric
+ R46 Resistor_SMD:R_0603_1608Metric
+ D23 Package_TO_SOT_SMD:SOT-23
+ NE23 NeonMatrix_Connector:NeonBulb
+ R47 Resistor_SMD:R_0402_1005Metric
+ R48 Resistor_SMD:R_0603_1608Metric
+ D24 Package_TO_SOT_SMD:SOT-23
+ NE24 NeonMatrix_Connector:NeonBulb
+ U4 Package_SO:SOIC-16_3.9x9.9mm_P1.27mm
+ C9 Capacitor_SMD:C_0805_2012Metric
+ R49 Resistor_SMD:R_0402_1005Metric
+ R50 Resistor_SMD:R_0603_1608Metric
+ D25 Package_TO_SOT_SMD:SOT-23
+ NE25 NeonMatrix_Connector:NeonBulb
+ R51 Resistor_SMD:R_0402_1005Metric
+ R52 Resistor_SMD:R_0603_1608Metric
+ D26 Package_TO_SOT_SMD:SOT-23
+ NE26 NeonMatrix_Connector:NeonBulb
+ R53 Resistor_SMD:R_0402_1005Metric
+ R54 Resistor_SMD:R_0603_1608Metric
+ D27 Package_TO_SOT_SMD:SOT-23
+ NE27 NeonMatrix_Connector:NeonBulb
+ R55 Resistor_SMD:R_0402_1005Metric
+ R56 Resistor_SMD:R_0603_1608Metric
+ D28 Package_TO_SOT_SMD:SOT-23
+ NE28 NeonMatrix_Connector:NeonBulb
+ R57 Resistor_SMD:R_0402_1005Metric
+ R58 Resistor_SMD:R_0603_1608Metric
+ D29 Package_TO_SOT_SMD:SOT-23
+ NE29 NeonMatrix_Connector:NeonBulb
+ R59 Resistor_SMD:R_0402_1005Metric
+ R60 Resistor_SMD:R_0603_1608Metric
+ D30 Package_TO_SOT_SMD:SOT-23
+ NE30 NeonMatrix_Connector:NeonBulb
+ R61 Resistor_SMD:R_0402_1005Metric
+ R62 Resistor_SMD:R_0603_1608Metric
+ D31 Package_TO_SOT_SMD:SOT-23
+ NE31 NeonMatrix_Connector:NeonBulb
+ R63 Resistor_SMD:R_0402_1005Metric
+ R64 Resistor_SMD:R_0603_1608Metric
+ D32 Package_TO_SOT_SMD:SOT-23
+ NE32 NeonMatrix_Connector:NeonBulb
+ U5 Package_SO:SOIC-16_3.9x9.9mm_P1.27mm
+ C10 Capacitor_SMD:C_0805_2012Metric
+ R65 Resistor_SMD:R_0402_1005Metric
+ R66 Resistor_SMD:R_0603_1608Metric
+ D33 Package_TO_SOT_SMD:SOT-23
+ NE33 NeonMatrix_Connector:NeonBulb
+ R67 Resistor_SMD:R_0402_1005Metric
+ R68 Resistor_SMD:R_0603_1608Metric
+ D34 Package_TO_SOT_SMD:SOT-23
+ NE34 NeonMatrix_Connector:NeonBulb
+ R69 Resistor_SMD:R_0402_1005Metric
+ R70 Resistor_SMD:R_0603_1608Metric
+ D35 Package_TO_SOT_SMD:SOT-23
+ NE35 NeonMatrix_Connector:NeonBulb
+ R71 Resistor_SMD:R_0402_1005Metric
+ R72 Resistor_SMD:R_0603_1608Metric
+ D36 Package_TO_SOT_SMD:SOT-23
+ NE36 NeonMatrix_Connector:NeonBulb
+ R73 Resistor_SMD:R_0402_1005Metric
+ R74 Resistor_SMD:R_0603_1608Metric
+ D37 Package_TO_SOT_SMD:SOT-23
+ NE37 NeonMatrix_Connector:NeonBulb
+ R75 Resistor_SMD:R_0402_1005Metric
+ R76 Resistor_SMD:R_0603_1608Metric
+ D38 Package_TO_SOT_SMD:SOT-23
+ NE38 NeonMatrix_Connector:NeonBulb
+ R77 Resistor_SMD:R_0402_1005Metric
+ R78 Resistor_SMD:R_0603_1608Metric
+ D39 Package_TO_SOT_SMD:SOT-23
+ NE39 NeonMatrix_Connector:NeonBulb
+ R79 Resistor_SMD:R_0402_1005Metric
+ R80 Resistor_SMD:R_0603_1608Metric
+ D40 Package_TO_SOT_SMD:SOT-23
+ NE40 NeonMatrix_Connector:NeonBulb
+ U6 Package_SO:SOIC-16_3.9x9.9mm_P1.27mm
+ C11 Capacitor_SMD:C_0805_2012Metric
+ R81 Resistor_SMD:R_0402_1005Metric
+ R82 Resistor_SMD:R_0603_1608Metric
+ D41 Package_TO_SOT_SMD:SOT-23
+ NE41 NeonMatrix_Connector:NeonBulb
+ R83 Resistor_SMD:R_0402_1005Metric
+ R84 Resistor_SMD:R_0603_1608Metric
+ D42 Package_TO_SOT_SMD:SOT-23
+ NE42 NeonMatrix_Connector:NeonBulb
+ R85 Resistor_SMD:R_0402_1005Metric
+ R86 Resistor_SMD:R_0603_1608Metric
+ D43 Package_TO_SOT_SMD:SOT-23
+ NE43 NeonMatrix_Connector:NeonBulb
+ R87 Resistor_SMD:R_0402_1005Metric
+ R88 Resistor_SMD:R_0603_1608Metric
+ D44 Package_TO_SOT_SMD:SOT-23
+ NE44 NeonMatrix_Connector:NeonBulb
+ R89 Resistor_SMD:R_0402_1005Metric
+ R90 Resistor_SMD:R_0603_1608Metric
+ D45 Package_TO_SOT_SMD:SOT-23
+ NE45 NeonMatrix_Connector:NeonBulb
+ R91 Resistor_SMD:R_0402_1005Metric
+ R92 Resistor_SMD:R_0603_1608Metric
+ D46 Package_TO_SOT_SMD:SOT-23
+ NE46 NeonMatrix_Connector:NeonBulb
+ R93 Resistor_SMD:R_0402_1005Metric
+ R94 Resistor_SMD:R_0603_1608Metric
+ D47 Package_TO_SOT_SMD:SOT-23
+ NE47 NeonMatrix_Connector:NeonBulb
+ R95 Resistor_SMD:R_0402_1005Metric
+ R96 Resistor_SMD:R_0603_1608Metric
+ D48 Package_TO_SOT_SMD:SOT-23
+ NE48 NeonMatrix_Connector:NeonBulb
+ U7 Package_SO:SOIC-16_3.9x9.9mm_P1.27mm
+ C12 Capacitor_SMD:C_0805_2012Metric
+ R97 Resistor_SMD:R_0402_1005Metric
+ R98 Resistor_SMD:R_0603_1608Metric
+ D49 Package_TO_SOT_SMD:SOT-23
+ NE49 NeonMatrix_Connector:NeonBulb
+ R99 Resistor_SMD:R_0402_1005Metric
+ R100 Resistor_SMD:R_0603_1608Metric
+ D50 Package_TO_SOT_SMD:SOT-23
+ NE50 NeonMatrix_Connector:NeonBulb
+ R101 Resistor_SMD:R_0402_1005Metric
+ R102 Resistor_SMD:R_0603_1608Metric
+ D51 Package_TO_SOT_SMD:SOT-23
+ NE51 NeonMatrix_Connector:NeonBulb
+ R103 Resistor_SMD:R_0402_1005Metric
+ R104 Resistor_SMD:R_0603_1608Metric
+ D52 Package_TO_SOT_SMD:SOT-23
+ NE52 NeonMatrix_Connector:NeonBulb
+ R105 Resistor_SMD:R_0402_1005Metric
+ R106 Resistor_SMD:R_0603_1608Metric
+ D53 Package_TO_SOT_SMD:SOT-23
+ NE53 NeonMatrix_Connector:NeonBulb
+ R107 Resistor_SMD:R_0402_1005Metric
+ R108 Resistor_SMD:R_0603_1608Metric
+ D54 Package_TO_SOT_SMD:SOT-23
+ NE54 NeonMatrix_Connector:NeonBulb
+ R109 Resistor_SMD:R_0402_1005Metric
+ R110 Resistor_SMD:R_0603_1608Metric
+ D55 Package_TO_SOT_SMD:SOT-23
+ NE55 NeonMatrix_Connector:NeonBulb
+ R111 Resistor_SMD:R_0402_1005Metric
+ R112 Resistor_SMD:R_0603_1608Metric
+ D56 Package_TO_SOT_SMD:SOT-23
+ NE56 NeonMatrix_Connector:NeonBulb
+ U8 Package_SO:SOIC-16_3.9x9.9mm_P1.27mm
+ C13 Capacitor_SMD:C_0805_2012Metric
+ R113 Resistor_SMD:R_0402_1005Metric
+ R114 Resistor_SMD:R_0603_1608Metric
+ D57 Package_TO_SOT_SMD:SOT-23
+ NE57 NeonMatrix_Connector:NeonBulb
+ R115 Resistor_SMD:R_0402_1005Metric
+ R116 Resistor_SMD:R_0603_1608Metric
+ D58 Package_TO_SOT_SMD:SOT-23
+ NE58 NeonMatrix_Connector:NeonBulb
+ R117 Resistor_SMD:R_0402_1005Metric
+ R118 Resistor_SMD:R_0603_1608Metric
+ D59 Package_TO_SOT_SMD:SOT-23
+ NE59 NeonMatrix_Connector:NeonBulb
+ R119 Resistor_SMD:R_0402_1005Metric
+ R120 Resistor_SMD:R_0603_1608Metric
+ D60 Package_TO_SOT_SMD:SOT-23
+ NE60 NeonMatrix_Connector:NeonBulb
+ R121 Resistor_SMD:R_0402_1005Metric
+ R122 Resistor_SMD:R_0603_1608Metric
+ D61 Package_TO_SOT_SMD:SOT-23
+ NE61 NeonMatrix_Connector:NeonBulb
+ R123 Resistor_SMD:R_0402_1005Metric
+ R124 Resistor_SMD:R_0603_1608Metric
+ D62 Package_TO_SOT_SMD:SOT-23
+ NE62 NeonMatrix_Connector:NeonBulb
+ R125 Resistor_SMD:R_0402_1005Metric
+ R126 Resistor_SMD:R_0603_1608Metric
+ D63 Package_TO_SOT_SMD:SOT-23
+ NE63 NeonMatrix_Connector:NeonBulb
+ R127 Resistor_SMD:R_0402_1005Metric
+ R128 Resistor_SMD:R_0603_1608Metric
+ D64 Package_TO_SOT_SMD:SOT-23
+ NE64 NeonMatrix_Connector:NeonBulb
+
+*NET*
+*SIGNAL* +3V3
+ U3.10
+ U11.1
+ U3.16
+ U6.10
+ U6.16
+ U2.16
+ C10.1
+ C8.1
+ C11.1
+ C16.1
+ TP1.1
+ C6.1
+ U1.10
+ U9.8
+ U1.16
+ U8.10
+ C13.1
+ U8.16
+ C7.1
+ U2.10
+ C12.1
+ U7.10
+ U10.8
+ U7.16
+ M1.4
+ U5.10
+ U4.16
+ C5.1
+ C3.1
+ C9.1
+ U4.10
+ C4.1
+ U5.16
+*SIGNAL* /ISO_LATCH
+ U10.2
+ J2.5
+*SIGNAL* /ISO_GND
+ U9.4
+ C14.2
+ J2.2
+ C2.2
+ M1.1
+ U10.4
+ C1.2
+ C15.2
+ U11.5
+*SIGNAL* /ISO_OE
+ U10.3
+ J2.6
+*SIGNAL* /ISO_SCK
+ J2.4
+ U9.3
+*SIGNAL* /ISO_DATAIN
+ J2.3
+ U9.2
+*SIGNAL* /ISO_5V
+ C15.1
+ C14.1
+ U10.1
+ U9.1
+ U11.8
+ J2.1
+ C2.1
+ M1.2
+ C1.1
+*SIGNAL* /ISO_DATAOUT
+ J2.7
+ U11.7
+*SIGNAL* /DATAOUT
+ U11.2
+ U8.9
+*SIGNAL* /sheet5EFAAFC4/DATAIN
+ U5.9
+ U6.14
+*SIGNAL* /sheet5EFAAFC3/DATAIN
+ U4.9
+ U5.14
+*SIGNAL* /sheet5EFA9519/DATAIN
+ U3.9
+ U4.14
+*SIGNAL* /sheet5EFA93E5/DATAIN
+ U3.14
+ U2.9
+*SIGNAL* /sheet5EFA929F/DATAIN
+ U2.14
+ U1.9
+*SIGNAL* /sheet5EFAAFC5/DATAIN
+ U6.9
+ U7.14
+*SIGNAL* GND
+ D17.1
+ D16.1
+ D42.1
+ D43.1
+ D44.1
+ D8.1
+ C10.2
+ D40.1
+ U6.8
+ D41.1
+ D6.1
+ D19.1
+ D18.1
+ D45.1
+ D7.1
+ D10.1
+ D13.1
+ D11.1
+ D48.1
+ U4.8
+ D12.1
+ D15.1
+ U5.8
+ D46.1
+ D9.1
+ D47.1
+ D14.1
+ D1.1
+ D24.1
+ D31.1
+ D32.1
+ D33.1
+ D2.1
+ D28.1
+ D26.1
+ C13.2
+ D27.1
+ D23.1
+ D29.1
+ D25.1
+ D30.1
+ D4.1
+ C12.2
+ D21.1
+ D37.1
+ D20.1
+ C11.2
+ D5.1
+ D38.1
+ D39.1
+ U8.8
+ D3.1
+ U7.8
+ D22.1
+ D34.1
+ D35.1
+ D36.1
+ TP2.1
+ D57.1
+ D61.1
+ D55.1
+ C16.2
+ D62.1
+ D56.1
+ U3.8
+ D64.1
+ C5.2
+ C3.2
+ D58.1
+ D60.1
+ C7.2
+ U11.3
+ U1.8
+ U9.5
+ M1.3
+ D50.1
+ D51.1
+ D49.1
+ D52.1
+ U11.4
+ C6.2
+ C9.2
+ C4.2
+ D63.1
+ U2.8
+ D54.1
+ D59.1
+ J1.2
+ D53.1
+ C8.2
+ U10.5
+*SIGNAL* LINE
+ NE17.2
+ NE33.2
+ NE8.2
+ NE32.2
+ NE64.2
+ NE31.2
+ NE4.2
+ NE21.2
+ NE1.2
+ NE25.2
+ NE5.2
+ NE20.2
+ NE24.2
+ NE22.2
+ NE2.2
+ NE3.2
+ NE23.2
+ NE18.2
+ NE29.2
+ NE28.2
+ NE7.2
+ NE30.2
+ NE27.2
+ NE19.2
+ NE6.2
+ J1.1
+ NE26.2
+ NE13.2
+ NE46.2
+ NE55.2
+ NE45.2
+ NE56.2
+ NE54.2
+ NE44.2
+ NE43.2
+ NE57.2
+ NE42.2
+ NE51.2
+ NE49.2
+ NE48.2
+ NE12.2
+ NE50.2
+ NE9.2
+ NE52.2
+ NE53.2
+ NE11.2
+ NE47.2
+ NE35.2
+ NE38.2
+ NE60.2
+ NE37.2
+ NE36.2
+ NE61.2
+ NE62.2
+ NE34.2
+ NE63.2
+ NE15.2
+ NE16.2
+ NE59.2
+ NE14.2
+ NE41.2
+ NE40.2
+ NE39.2
+ NE58.2
+ NE10.2
+*SIGNAL* /SCK
+ U8.11
+ U4.11
+ U1.11
+ U7.11
+ U5.11
+ U2.11
+ U3.11
+ U6.11
+ U9.6
+*SIGNAL* /DATAIN
+ U9.7
+ U1.14
+*SIGNAL* /OE
+ U5.13
+ U3.13
+ U1.13
+ U7.13
+ U2.13
+ U6.13
+ U4.13
+ U10.6
+ U8.13
+*SIGNAL* /LATCH
+ U4.12
+ U1.12
+ U8.12
+ U10.7
+ U7.12
+ U2.12
+ U6.12
+ U5.12
+ U3.12
+*SIGNAL* /sheet5EFAAFC6/DATAIN
+ U7.9
+ U8.14
+*SIGNAL* /Sheet595Neon/sheet5EF2B6E0/SIGNAL
+ U1.2
+ R5.2
+*SIGNAL* /Sheet595Neon/SheetSingleBulb/SIGNAL
+ R1.2
+ U1.15
+*SIGNAL* /Sheet595Neon/sheet5EF2B64C/SIGNAL
+ R3.2
+ U1.1
+*SIGNAL* /Sheet595Neon/sheet5EF2B938/SIGNAL
+ U1.6
+ R13.2
+*SIGNAL* /Sheet595Neon/sheet5EF2B800/SIGNAL
+ U1.4
+ R9.2
+*SIGNAL* /Sheet595Neon/sheet5EF2B77E/SIGNAL
+ U1.3
+ R7.2
+*SIGNAL* /Sheet595Neon/sheet5EF2B9F4/SIGNAL
+ R15.2
+ U1.7
+*SIGNAL* /Sheet595Neon/sheet5EF2B8A4/SIGNAL
+ U1.5
+ R11.2
+*SIGNAL* /sheet5EFA929F/sheet5EF2B6E0/SIGNAL
+ U2.2
+ R21.2
+*SIGNAL* /sheet5EFA929F/SheetSingleBulb/SIGNAL
+ R17.2
+ U2.15
+*SIGNAL* /sheet5EFA929F/sheet5EF2B64C/SIGNAL
+ R19.2
+ U2.1
+*SIGNAL* /sheet5EFA929F/sheet5EF2B938/SIGNAL
+ U2.6
+ R29.2
+*SIGNAL* /sheet5EFA929F/sheet5EF2B800/SIGNAL
+ U2.4
+ R25.2
+*SIGNAL* /sheet5EFA929F/sheet5EF2B77E/SIGNAL
+ U2.3
+ R23.2
+*SIGNAL* /sheet5EFA929F/sheet5EF2B9F4/SIGNAL
+ R31.2
+ U2.7
+*SIGNAL* /sheet5EFA929F/sheet5EF2B8A4/SIGNAL
+ U2.5
+ R27.2
+*SIGNAL* /sheet5EFA93E5/SheetSingleBulb/SIGNAL
+ U3.15
+ R33.2
+*SIGNAL* /sheet5EFA93E5/sheet5EF2B77E/SIGNAL
+ R39.2
+ U3.3
+*SIGNAL* /sheet5EFA93E5/sheet5EF2B6E0/SIGNAL
+ U3.2
+ R37.2
+*SIGNAL* /sheet5EFA93E5/sheet5EF2B800/SIGNAL
+ R41.2
+ U3.4
+*SIGNAL* /sheet5EFA93E5/sheet5EF2B938/SIGNAL
+ U3.6
+ R45.2
+*SIGNAL* /sheet5EFA93E5/sheet5EF2B8A4/SIGNAL
+ U3.5
+ R43.2
+*SIGNAL* /sheet5EFA93E5/sheet5EF2B9F4/SIGNAL
+ U3.7
+ R47.2
+*SIGNAL* /sheet5EFA93E5/sheet5EF2B64C/SIGNAL
+ U3.1
+ R35.2
+*SIGNAL* /sheet5EFA9519/sheet5EF2B800/SIGNAL
+ U4.4
+ R57.2
+*SIGNAL* /sheet5EFA9519/sheet5EF2B6E0/SIGNAL
+ R53.2
+ U4.2
+*SIGNAL* /sheet5EFA9519/SheetSingleBulb/SIGNAL
+ R49.2
+ U4.15
+*SIGNAL* /sheet5EFA9519/sheet5EF2B64C/SIGNAL
+ U4.1
+ R51.2
+*SIGNAL* /sheet5EFA9519/sheet5EF2B938/SIGNAL
+ U4.6
+ R61.2
+*SIGNAL* /sheet5EFA9519/sheet5EF2B77E/SIGNAL
+ U4.3
+ R55.2
+*SIGNAL* /sheet5EFA9519/sheet5EF2B9F4/SIGNAL
+ R63.2
+ U4.7
+*SIGNAL* /sheet5EFA9519/sheet5EF2B8A4/SIGNAL
+ U4.5
+ R59.2
+*SIGNAL* /sheet5EFAAFC3/SheetSingleBulb/SIGNAL
+ U5.15
+ R65.2
+*SIGNAL* /sheet5EFAAFC3/sheet5EF2B64C/SIGNAL
+ U5.1
+ R67.2
+*SIGNAL* /sheet5EFAAFC3/sheet5EF2B938/SIGNAL
+ U5.6
+ R77.2
+*SIGNAL* /sheet5EFAAFC3/sheet5EF2B8A4/SIGNAL
+ U5.5
+ R75.2
+*SIGNAL* /sheet5EFAAFC3/sheet5EF2B9F4/SIGNAL
+ U5.7
+ R79.2
+*SIGNAL* /sheet5EFAAFC3/sheet5EF2B77E/SIGNAL
+ R71.2
+ U5.3
+*SIGNAL* /sheet5EFAAFC3/sheet5EF2B6E0/SIGNAL
+ U5.2
+ R69.2
+*SIGNAL* /sheet5EFAAFC3/sheet5EF2B800/SIGNAL
+ R73.2
+ U5.4
+*SIGNAL* /sheet5EFAAFC4/SheetSingleBulb/SIGNAL
+ R81.2
+ U6.15
+*SIGNAL* /sheet5EFAAFC4/sheet5EF2B77E/SIGNAL
+ U6.3
+ R87.2
+*SIGNAL* /sheet5EFAAFC4/sheet5EF2B938/SIGNAL
+ U6.6
+ R93.2
+*SIGNAL* /sheet5EFAAFC4/sheet5EF2B9F4/SIGNAL
+ U6.7
+ R95.2
+*SIGNAL* /sheet5EFAAFC4/sheet5EF2B800/SIGNAL
+ R89.2
+ U6.4
+*SIGNAL* /sheet5EFAAFC4/sheet5EF2B8A4/SIGNAL
+ R91.2
+ U6.5
+*SIGNAL* /sheet5EFAAFC4/sheet5EF2B64C/SIGNAL
+ U6.1
+ R83.2
+*SIGNAL* /sheet5EFAAFC4/sheet5EF2B6E0/SIGNAL
+ R85.2
+ U6.2
+*SIGNAL* /sheet5EFAAFC5/sheet5EF2B938/SIGNAL
+ R109.2
+ U7.6
+*SIGNAL* /sheet5EFAAFC5/sheet5EF2B77E/SIGNAL
+ R103.2
+ U7.3
+*SIGNAL* /sheet5EFAAFC5/sheet5EF2B9F4/SIGNAL
+ R111.2
+ U7.7
+*SIGNAL* /sheet5EFAAFC5/sheet5EF2B8A4/SIGNAL
+ R107.2
+ U7.5
+*SIGNAL* /sheet5EFAAFC5/sheet5EF2B800/SIGNAL
+ R105.2
+ U7.4
+*SIGNAL* /sheet5EFAAFC5/sheet5EF2B6E0/SIGNAL
+ U7.2
+ R101.2
+*SIGNAL* /sheet5EFAAFC5/sheet5EF2B64C/SIGNAL
+ U7.1
+ R99.2
+*SIGNAL* /sheet5EFAAFC5/SheetSingleBulb/SIGNAL
+ R97.2
+ U7.15
+*SIGNAL* /sheet5EFAAFC6/sheet5EF2B77E/SIGNAL
+ R119.2
+ U8.3
+*SIGNAL* /sheet5EFAAFC6/sheet5EF2B64C/SIGNAL
+ R115.2
+ U8.1
+*SIGNAL* /sheet5EFAAFC6/sheet5EF2B800/SIGNAL
+ R121.2
+ U8.4
+*SIGNAL* /sheet5EFAAFC6/sheet5EF2B6E0/SIGNAL
+ R117.2
+ U8.2
+*SIGNAL* /sheet5EFAAFC6/SheetSingleBulb/SIGNAL
+ R113.2
+ U8.15
+*SIGNAL* /sheet5EFAAFC6/sheet5EF2B8A4/SIGNAL
+ R123.2
+ U8.5
+*SIGNAL* /sheet5EFAAFC6/sheet5EF2B9F4/SIGNAL
+ R127.2
+ U8.7
+*SIGNAL* /sheet5EFAAFC6/sheet5EF2B938/SIGNAL
+ R125.2
+ U8.6
+*SIGNAL* Net-(NE1-Pad1)
+ NE1.1
+ R2.1
+*SIGNAL* Net-(D1-Pad2)
+ D1.2
+ R1.1
+*SIGNAL* Net-(D1-Pad3)
+ R2.2
+ D1.3
+*SIGNAL* Net-(D2-Pad3)
+ R4.2
+ D2.3
+*SIGNAL* Net-(NE2-Pad1)
+ R4.1
+ NE2.1
+*SIGNAL* Net-(D2-Pad2)
+ R3.1
+ D2.2
+*SIGNAL* Net-(NE3-Pad1)
+ NE3.1
+ R6.1
+*SIGNAL* Net-(D3-Pad3)
+ D3.3
+ R6.2
+*SIGNAL* Net-(D3-Pad2)
+ R5.1
+ D3.2
+*SIGNAL* Net-(D4-Pad2)
+ R7.1
+ D4.2
+*SIGNAL* Net-(NE4-Pad1)
+ R8.1
+ NE4.1
+*SIGNAL* Net-(D4-Pad3)
+ R8.2
+ D4.3
+*SIGNAL* Net-(NE5-Pad1)
+ NE5.1
+ R10.1
+*SIGNAL* Net-(D5-Pad3)
+ D5.3
+ R10.2
+*SIGNAL* Net-(D5-Pad2)
+ D5.2
+ R9.1
+*SIGNAL* Net-(NE6-Pad1)
+ R12.1
+ NE6.1
+*SIGNAL* Net-(D6-Pad3)
+ R12.2
+ D6.3
+*SIGNAL* Net-(D6-Pad2)
+ D6.2
+ R11.1
+*SIGNAL* Net-(NE7-Pad1)
+ R14.1
+ NE7.1
+*SIGNAL* Net-(D7-Pad2)
+ R13.1
+ D7.2
+*SIGNAL* Net-(D7-Pad3)
+ D7.3
+ R14.2
+*SIGNAL* Net-(D8-Pad3)
+ D8.3
+ R16.2
+*SIGNAL* Net-(D8-Pad2)
+ D8.2
+ R15.1
+*SIGNAL* Net-(NE8-Pad1)
+ NE8.1
+ R16.1
+*SIGNAL* Net-(D9-Pad2)
+ R17.1
+ D9.2
+*SIGNAL* Net-(NE9-Pad1)
+ R18.1
+ NE9.1
+*SIGNAL* Net-(D9-Pad3)
+ R18.2
+ D9.3
+*SIGNAL* Net-(NE10-Pad1)
+ NE10.1
+ R20.1
+*SIGNAL* Net-(D10-Pad2)
+ D10.2
+ R19.1
+*SIGNAL* Net-(D10-Pad3)
+ D10.3
+ R20.2
+*SIGNAL* Net-(NE11-Pad1)
+ NE11.1
+ R22.1
+*SIGNAL* Net-(D11-Pad3)
+ D11.3
+ R22.2
+*SIGNAL* Net-(D11-Pad2)
+ R21.1
+ D11.2
+*SIGNAL* Net-(NE12-Pad1)
+ R24.1
+ NE12.1
+*SIGNAL* Net-(D12-Pad3)
+ R24.2
+ D12.3
+*SIGNAL* Net-(D12-Pad2)
+ R23.1
+ D12.2
+*SIGNAL* Net-(D13-Pad3)
+ R26.2
+ D13.3
+*SIGNAL* Net-(D13-Pad2)
+ R25.1
+ D13.2
+*SIGNAL* Net-(NE13-Pad1)
+ NE13.1
+ R26.1
+*SIGNAL* Net-(D14-Pad2)
+ R27.1
+ D14.2
+*SIGNAL* Net-(NE14-Pad1)
+ R28.1
+ NE14.1
+*SIGNAL* Net-(D14-Pad3)
+ R28.2
+ D14.3
+*SIGNAL* Net-(NE15-Pad1)
+ R30.1
+ NE15.1
+*SIGNAL* Net-(D15-Pad2)
+ R29.1
+ D15.2
+*SIGNAL* Net-(D15-Pad3)
+ R30.2
+ D15.3
+*SIGNAL* Net-(NE16-Pad1)
+ NE16.1
+ R32.1
+*SIGNAL* Net-(D16-Pad2)
+ D16.2
+ R31.1
+*SIGNAL* Net-(D16-Pad3)
+ D16.3
+ R32.2
+*SIGNAL* Net-(NE17-Pad1)
+ NE17.1
+ R34.1
+*SIGNAL* Net-(D17-Pad3)
+ D17.3
+ R34.2
+*SIGNAL* Net-(D17-Pad2)
+ D17.2
+ R33.1
+*SIGNAL* Net-(D18-Pad2)
+ R35.1
+ D18.2
+*SIGNAL* Net-(NE18-Pad1)
+ NE18.1
+ R36.1
+*SIGNAL* Net-(D18-Pad3)
+ D18.3
+ R36.2
+*SIGNAL* Net-(NE19-Pad1)
+ R38.1
+ NE19.1
+*SIGNAL* Net-(D19-Pad3)
+ R38.2
+ D19.3
+*SIGNAL* Net-(D19-Pad2)
+ R37.1
+ D19.2
+*SIGNAL* Net-(NE20-Pad1)
+ NE20.1
+ R40.1
+*SIGNAL* Net-(D20-Pad2)
+ D20.2
+ R39.1
+*SIGNAL* Net-(D20-Pad3)
+ D20.3
+ R40.2
+*SIGNAL* Net-(D21-Pad3)
+ R42.2
+ D21.3
+*SIGNAL* Net-(NE21-Pad1)
+ NE21.1
+ R42.1
+*SIGNAL* Net-(D21-Pad2)
+ R41.1
+ D21.2
+*SIGNAL* Net-(NE22-Pad1)
+ NE22.1
+ R44.1
+*SIGNAL* Net-(D22-Pad2)
+ D22.2
+ R43.1
+*SIGNAL* Net-(D22-Pad3)
+ D22.3
+ R44.2
+*SIGNAL* Net-(NE23-Pad1)
+ NE23.1
+ R46.1
+*SIGNAL* Net-(D23-Pad3)
+ D23.3
+ R46.2
+*SIGNAL* Net-(D23-Pad2)
+ D23.2
+ R45.1
+*SIGNAL* Net-(NE24-Pad1)
+ NE24.1
+ R48.1
+*SIGNAL* Net-(D24-Pad3)
+ D24.3
+ R48.2
+*SIGNAL* Net-(D24-Pad2)
+ R47.1
+ D24.2
+*SIGNAL* Net-(NE25-Pad1)
+ NE25.1
+ R50.1
+*SIGNAL* Net-(D25-Pad3)
+ D25.3
+ R50.2
+*SIGNAL* Net-(D25-Pad2)
+ R49.1
+ D25.2
+*SIGNAL* Net-(D26-Pad2)
+ R51.1
+ D26.2
+*SIGNAL* Net-(NE26-Pad1)
+ R52.1
+ NE26.1
+*SIGNAL* Net-(D26-Pad3)
+ R52.2
+ D26.3
+*SIGNAL* Net-(D27-Pad2)
+ R53.1
+ D27.2
+*SIGNAL* Net-(NE27-Pad1)
+ R54.1
+ NE27.1
+*SIGNAL* Net-(D27-Pad3)
+ R54.2
+ D27.3
+*SIGNAL* Net-(NE28-Pad1)
+ NE28.1
+ R56.1
+*SIGNAL* Net-(D28-Pad3)
+ D28.3
+ R56.2
+*SIGNAL* Net-(D28-Pad2)
+ R55.1
+ D28.2
+*SIGNAL* Net-(D29-Pad3)
+ R58.2
+ D29.3
+*SIGNAL* Net-(NE29-Pad1)
+ NE29.1
+ R58.1
+*SIGNAL* Net-(D29-Pad2)
+ R57.1
+ D29.2
+*SIGNAL* Net-(NE30-Pad1)
+ NE30.1
+ R60.1
+*SIGNAL* Net-(D30-Pad3)
+ D30.3
+ R60.2
+*SIGNAL* Net-(D30-Pad2)
+ D30.2
+ R59.1
+*SIGNAL* Net-(NE31-Pad1)
+ R62.1
+ NE31.1
+*SIGNAL* Net-(D31-Pad3)
+ D31.3
+ R62.2
+*SIGNAL* Net-(D31-Pad2)
+ D31.2
+ R61.1
+*SIGNAL* Net-(NE32-Pad1)
+ R64.1
+ NE32.1
+*SIGNAL* Net-(D32-Pad3)
+ D32.3
+ R64.2
+*SIGNAL* Net-(D32-Pad2)
+ D32.2
+ R63.1
+*SIGNAL* Net-(D33-Pad2)
+ R65.1
+ D33.2
+*SIGNAL* Net-(NE33-Pad1)
+ NE33.1
+ R66.1
+*SIGNAL* Net-(D33-Pad3)
+ D33.3
+ R66.2
+*SIGNAL* Net-(NE34-Pad1)
+ NE34.1
+ R68.1
+*SIGNAL* Net-(D34-Pad3)
+ D34.3
+ R68.2
+*SIGNAL* Net-(D34-Pad2)
+ R67.1
+ D34.2
+*SIGNAL* Net-(NE35-Pad1)
+ NE35.1
+ R70.1
+*SIGNAL* Net-(D35-Pad3)
+ D35.3
+ R70.2
+*SIGNAL* Net-(D35-Pad2)
+ R69.1
+ D35.2
+*SIGNAL* Net-(NE36-Pad1)
+ NE36.1
+ R72.1
+*SIGNAL* Net-(D36-Pad3)
+ D36.3
+ R72.2
+*SIGNAL* Net-(D36-Pad2)
+ D36.2
+ R71.1
+*SIGNAL* Net-(D37-Pad3)
+ R74.2
+ D37.3
+*SIGNAL* Net-(D37-Pad2)
+ R73.1
+ D37.2
+*SIGNAL* Net-(NE37-Pad1)
+ R74.1
+ NE37.1
+*SIGNAL* Net-(NE38-Pad1)
+ R76.1
+ NE38.1
+*SIGNAL* Net-(D38-Pad3)
+ D38.3
+ R76.2
+*SIGNAL* Net-(D38-Pad2)
+ D38.2
+ R75.1
+*SIGNAL* Net-(D39-Pad3)
+ D39.3
+ R78.2
+*SIGNAL* Net-(NE39-Pad1)
+ NE39.1
+ R78.1
+*SIGNAL* Net-(D39-Pad2)
+ D39.2
+ R77.1
+*SIGNAL* Net-(NE40-Pad1)
+ NE40.1
+ R80.1
+*SIGNAL* Net-(D40-Pad3)
+ D40.3
+ R80.2
+*SIGNAL* Net-(D40-Pad2)
+ D40.2
+ R79.1
+*SIGNAL* Net-(NE41-Pad1)
+ NE41.1
+ R82.1
+*SIGNAL* Net-(D41-Pad3)
+ D41.3
+ R82.2
+*SIGNAL* Net-(D41-Pad2)
+ D41.2
+ R81.1
+*SIGNAL* Net-(NE42-Pad1)
+ R84.1
+ NE42.1
+*SIGNAL* Net-(D42-Pad3)
+ R84.2
+ D42.3
+*SIGNAL* Net-(D42-Pad2)
+ R83.1
+ D42.2
+*SIGNAL* Net-(D43-Pad2)
+ D43.2
+ R85.1
+*SIGNAL* Net-(NE43-Pad1)
+ NE43.1
+ R86.1
+*SIGNAL* Net-(D43-Pad3)
+ R86.2
+ D43.3
+*SIGNAL* Net-(NE44-Pad1)
+ NE44.1
+ R88.1
+*SIGNAL* Net-(D44-Pad3)
+ R88.2
+ D44.3
+*SIGNAL* Net-(D44-Pad2)
+ D44.2
+ R87.1
+*SIGNAL* Net-(D45-Pad2)
+ R89.1
+ D45.2
+*SIGNAL* Net-(NE45-Pad1)
+ R90.1
+ NE45.1
+*SIGNAL* Net-(D45-Pad3)
+ R90.2
+ D45.3
+*SIGNAL* Net-(NE46-Pad1)
+ R92.1
+ NE46.1
+*SIGNAL* Net-(D46-Pad3)
+ R92.2
+ D46.3
+*SIGNAL* Net-(D46-Pad2)
+ D46.2
+ R91.1
+*SIGNAL* Net-(NE47-Pad1)
+ NE47.1
+ R94.1
+*SIGNAL* Net-(D47-Pad2)
+ R93.1
+ D47.2
+*SIGNAL* Net-(D47-Pad3)
+ D47.3
+ R94.2
+*SIGNAL* Net-(NE48-Pad1)
+ NE48.1
+ R96.1
+*SIGNAL* Net-(D48-Pad3)
+ D48.3
+ R96.2
+*SIGNAL* Net-(D48-Pad2)
+ D48.2
+ R95.1
+*SIGNAL* Net-(NE49-Pad1)
+ R98.1
+ NE49.1
+*SIGNAL* Net-(D49-Pad3)
+ R98.2
+ D49.3
+*SIGNAL* Net-(D49-Pad2)
+ D49.2
+ R97.1
+*SIGNAL* Net-(NE50-Pad1)
+ R100.1
+ NE50.1
+*SIGNAL* Net-(D50-Pad3)
+ R100.2
+ D50.3
+*SIGNAL* Net-(D50-Pad2)
+ R99.1
+ D50.2
+*SIGNAL* Net-(NE51-Pad1)
+ R102.1
+ NE51.1
+*SIGNAL* Net-(D51-Pad3)
+ R102.2
+ D51.3
+*SIGNAL* Net-(D51-Pad2)
+ R101.1
+ D51.2
+*SIGNAL* Net-(NE52-Pad1)
+ NE52.1
+ R104.1
+*SIGNAL* Net-(D52-Pad3)
+ D52.3
+ R104.2
+*SIGNAL* Net-(D52-Pad2)
+ D52.2
+ R103.1
+*SIGNAL* Net-(NE53-Pad1)
+ NE53.1
+ R106.1
+*SIGNAL* Net-(D53-Pad2)
+ D53.2
+ R105.1
+*SIGNAL* Net-(D53-Pad3)
+ D53.3
+ R106.2
+*SIGNAL* Net-(NE54-Pad1)
+ R108.1
+ NE54.1
+*SIGNAL* Net-(D54-Pad3)
+ D54.3
+ R108.2
+*SIGNAL* Net-(D54-Pad2)
+ R107.1
+ D54.2
+*SIGNAL* Net-(NE55-Pad1)
+ NE55.1
+ R110.1
+*SIGNAL* Net-(D55-Pad3)
+ D55.3
+ R110.2
+*SIGNAL* Net-(D55-Pad2)
+ R109.1
+ D55.2
+*SIGNAL* Net-(D56-Pad3)
+ D56.3
+ R112.2
+*SIGNAL* Net-(NE56-Pad1)
+ NE56.1
+ R112.1
+*SIGNAL* Net-(D56-Pad2)
+ D56.2
+ R111.1
+*SIGNAL* Net-(D57-Pad2)
+ D57.2
+ R113.1
+*SIGNAL* Net-(D57-Pad3)
+ D57.3
+ R114.2
+*SIGNAL* Net-(NE57-Pad1)
+ NE57.1
+ R114.1
+*SIGNAL* Net-(NE58-Pad1)
+ NE58.1
+ R116.1
+*SIGNAL* Net-(D58-Pad3)
+ R116.2
+ D58.3
+*SIGNAL* Net-(D58-Pad2)
+ D58.2
+ R115.1
+*SIGNAL* Net-(NE59-Pad1)
+ R118.1
+ NE59.1
+*SIGNAL* Net-(D59-Pad3)
+ R118.2
+ D59.3
+*SIGNAL* Net-(D59-Pad2)
+ D59.2
+ R117.1
+*SIGNAL* Net-(NE60-Pad1)
+ R120.1
+ NE60.1
+*SIGNAL* Net-(D60-Pad3)
+ D60.3
+ R120.2
+*SIGNAL* Net-(D60-Pad2)
+ D60.2
+ R119.1
+*SIGNAL* Net-(D61-Pad3)
+ D61.3
+ R122.2
+*SIGNAL* Net-(NE61-Pad1)
+ R122.1
+ NE61.1
+*SIGNAL* Net-(D61-Pad2)
+ R121.1
+ D61.2
+*SIGNAL* Net-(NE62-Pad1)
+ NE62.1
+ R124.1
+*SIGNAL* Net-(D62-Pad3)
+ D62.3
+ R124.2
+*SIGNAL* Net-(D62-Pad2)
+ D62.2
+ R123.1
+*SIGNAL* Net-(NE63-Pad1)
+ R126.1
+ NE63.1
+*SIGNAL* Net-(D63-Pad3)
+ R126.2
+ D63.3
+*SIGNAL* Net-(D63-Pad2)
+ D63.2
+ R125.1
+*SIGNAL* Net-(NE64-Pad1)
+ NE64.1
+ R128.1
+*SIGNAL* Net-(D64-Pad3)
+ D64.3
+ R128.2
+*SIGNAL* Net-(D64-Pad2)
+ R127.1
+ D64.2
+*END*
